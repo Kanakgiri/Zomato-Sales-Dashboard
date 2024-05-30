@@ -13,7 +13,6 @@ The goal is to provide insights to improve business operations, enhance customer
 ## About Data
 
 The dataset has four files
-- Menu  : This contains information like Menu-Id, Food-Id, Restaurant-Id, Price.
 - Restaurant  : This contains information like Restaurant-Id, City, Adress, Ratings.
 - Orders  : This contains information like Restaurant-Id, Order-Id, Order_Date, Quantity, Sales_Amount, User-Id.
 - Users  : This contains information like User-Id, Name, Age, Gender, Marital_Status, Occupation.
