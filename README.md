@@ -1,6 +1,6 @@
 # Zomato Sales Dashboard
 
-## Purposes Of The Project
+## Purpose Of The Project
 
 The goal is to provide insights to improve business operations, enhance customer satisfaction, and drive growth for the food delivery service.
 
